@@ -1,0 +1,453 @@
+[
+  {
+    "id": "vocab_a1_1",
+    "level": "A1",
+    "module": "vocabulary",
+    "question": "What is the English word for 'kot'?",
+    "options": ["dog", "cat", "bird"],
+    "answer": "cat",
+    "explanation": "'Kot' translates to 'cat' in English."
+  },
+  {
+    "id": "vocab_a1_2",
+    "level": "A1",
+    "module": "vocabulary",
+    "question": "What color is the sky on a clear day?",
+    "options": ["blue", "green", "red"],
+    "answer": "blue",
+    "explanation": "The sky appears blue on a clear, sunny day due to the scattering of sunlight."
+  },
+  {
+    "id": "vocab_a2_1",
+    "level": "A2",
+    "module": "vocabulary",
+    "question": "Select the correct translation of 'podróżować'.",
+    "options": ["travel", "sleep", "eat"],
+    "answer": "travel",
+    "explanation": "'Podróżować' means 'to travel' in English."
+  },
+  {
+    "id": "vocab_a2_2",
+    "level": "A2",
+    "module": "vocabulary",
+    "question": "Which word means 'książka'?",
+    "options": ["book", "chair", "phone"],
+    "answer": "book",
+    "explanation": "'Książka' translates to 'book'."
+  },
+  {
+    "id": "vocab_b1_1",
+    "level": "B1",
+    "module": "vocabulary",
+    "question": "Which phrasal verb means 'to postpone'?",
+    "options": ["put off", "get up", "take off"],
+    "answer": "put off",
+    "explanation": "'Put off' is a phrasal verb meaning to postpone something."
+  },
+  {
+    "id": "vocab_b1_2",
+    "level": "B1",
+    "module": "vocabulary",
+    "question": "What is the meaning of 'efficient'?",
+    "options": ["effective and without waste", "slow", "confusing"],
+    "answer": "effective and without waste",
+    "explanation": "'Efficient' describes something that works well without wasting time or resources."
+  },
+  {
+    "id": "vocab_b2_1",
+    "level": "B2",
+    "module": "vocabulary",
+    "question": "What does 'versatile' mean?",
+    "options": ["adaptable", "heavy", "rare"],
+    "answer": "adaptable",
+    "explanation": "'Versatile' means able to adapt to many different functions or activities."
+  },
+  {
+    "id": "vocab_b2_2",
+    "level": "B2",
+    "module": "vocabulary",
+    "question": "Which word means the opposite of 'scarce'?",
+    "options": ["abundant", "limited", "rare"],
+    "answer": "abundant",
+    "explanation": "'Abundant' is the antonym of 'scarce'."
+  },
+  {
+    "id": "vocab_c1_1",
+    "level": "C1",
+    "module": "vocabulary",
+    "question": "What does 'cogent' mean?",
+    "options": ["clear and persuasive", "hidden", "irrelevant"],
+    "answer": "clear and persuasive",
+    "explanation": "'Cogent' describes an argument that is clear, logical and convincing."
+  },
+  {
+    "id": "vocab_c1_2",
+    "level": "C1",
+    "module": "vocabulary",
+    "question": "Which word describes someone who is 'mirthful'?",
+    "options": ["cheerful", "serious", "angry"],
+    "answer": "cheerful",
+    "explanation": "'Mirthful' means full of merriment or cheerfulness."
+  },
+  {
+    "id": "vocab_c2_1",
+    "level": "C2",
+    "module": "vocabulary",
+    "question": "What is the meaning of 'ephemeral'?",
+    "options": ["lasting a very short time", "enormous", "everlasting"],
+    "answer": "lasting a very short time",
+    "explanation": "'Ephemeral' refers to something that lasts for a very short duration."
+  },
+  {
+    "id": "vocab_c2_2",
+    "level": "C2",
+    "module": "vocabulary",
+    "question": "Which term refers to the process of 'debunking'?",
+    "options": ["exposing falseness", "supporting", "ignoring"],
+    "answer": "exposing falseness",
+    "explanation": "To debunk something is to expose its falseness or hollowness."
+  },
+
+  {
+    "id": "grammar_a1_1",
+    "level": "A1",
+    "module": "grammar",
+    "question": "She ___ my friend.",
+    "options": ["is", "are", "am"],
+    "answer": "is",
+    "explanation": "'She' takes the verb form 'is' in the present simple tense."
+  },
+  {
+    "id": "grammar_a1_2",
+    "level": "A1",
+    "module": "grammar",
+    "question": "They ___ at home.",
+    "options": ["is", "are", "am"],
+    "answer": "are",
+    "explanation": "'They' pairs with 'are' in the present simple tense."
+  },
+  {
+    "id": "grammar_a2_1",
+    "level": "A2",
+    "module": "grammar",
+    "question": "I ___ coffee.",
+    "options": ["don't like", "likes", "liking"],
+    "answer": "don't like",
+    "explanation": "The correct negative form for 'I' is 'don't like'."
+  },
+  {
+    "id": "grammar_a2_2",
+    "level": "A2",
+    "module": "grammar",
+    "question": "We ___ going to the movies.",
+    "options": ["are", "is", "am"],
+    "answer": "are",
+    "explanation": "'We' takes 'are' in present continuous constructions."
+  },
+  {
+    "id": "grammar_b1_1",
+    "level": "B1",
+    "module": "grammar",
+    "question": "The book ___ I borrowed was interesting.",
+    "options": ["which", "who", "when"],
+    "answer": "which",
+    "explanation": "'Which' is used as the relative pronoun for things."
+  },
+  {
+    "id": "grammar_b1_2",
+    "level": "B1",
+    "module": "grammar",
+    "question": "If I ___ time, I would help you.",
+    "options": ["had", "have", "will have"],
+    "answer": "had",
+    "explanation": "This is the second conditional: 'If I had time, I would help you'."
+  },
+  {
+    "id": "grammar_b2_1",
+    "level": "B2",
+    "module": "grammar",
+    "question": "Correct the error: 'He don't like playing soccer.'",
+    "answer": "He doesn't like playing soccer.",
+    "explanation": "For he/she/it, the auxiliary verb in the present simple is 'doesn't'."
+  },
+  {
+    "id": "grammar_b2_2",
+    "level": "B2",
+    "module": "grammar",
+    "question": "She was late ___ the traffic.",
+    "options": ["because of", "because", "due"],
+    "answer": "because of",
+    "explanation": "'Because of' is followed by a noun phrase; 'because' is followed by a clause."
+  },
+  {
+    "id": "grammar_c1_1",
+    "level": "C1",
+    "module": "grammar",
+    "question": "If she ___ about the party, she would have come.",
+    "options": ["had known", "knew", "known"],
+    "answer": "had known",
+    "explanation": "This is the third conditional: 'If she had known about the party, she would have come'."
+  },
+  {
+    "id": "grammar_c1_2",
+    "level": "C1",
+    "module": "grammar",
+    "question": "Hardly ___ gone to bed when the phone rang.",
+    "options": ["had I", "I had", "had"],
+    "answer": "had I",
+    "explanation": "In negative adverbials such as 'hardly', inversion is used: 'Hardly had I gone...'."
+  },
+  {
+    "id": "grammar_c2_1",
+    "level": "C2",
+    "module": "grammar",
+    "question": "It is important that he ___ on time.",
+    "options": ["be", "is", "was"],
+    "answer": "be",
+    "explanation": "In the subjunctive mood following 'important that', the base form 'be' is used."
+  },
+  {
+    "id": "grammar_c2_2",
+    "level": "C2",
+    "module": "grammar",
+    "question": "Which sentence uses 'whom' correctly?",
+    "options": [
+      "Whom did you invite to the dinner?",
+      "Whom is playing the guitar?",
+      "I don't know whom she is."
+    ],
+    "answer": "Whom did you invite to the dinner?",
+    "explanation": "'Whom' is used as the object of the verb 'invite' in the first sentence; the others misuse 'whom'."
+  },
+
+  {
+    "id": "reading_a1_1",
+    "level": "A1",
+    "module": "reading",
+    "text": "Anna has a cat. Her cat is small and gray. Every morning, Anna feeds her cat and gives it milk.",
+    "questions": [
+      {
+        "question": "What color is Anna's cat?",
+        "answer": ["small and gray", "gray"]
+      },
+      {
+        "question": "What does Anna give her cat every morning?",
+        "answer": ["milk"]
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_1",
+    "level": "A2",
+    "module": "reading",
+    "text": "Mark likes to travel. Last summer he went to Paris and visited the Eiffel Tower. He also tried French food and learned a few French words.",
+    "questions": [
+      {
+        "question": "Where did Mark go last summer?",
+        "answer": ["Paris"]
+      },
+      {
+        "question": "What landmark did he visit?",
+        "answer": ["Eiffel Tower"]
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_1",
+    "level": "B1",
+    "module": "reading",
+    "text": "Sarah works in a small bakery. She wakes up at 4 a.m. every day to bake bread and pastries. She enjoys seeing her customers smile when they taste her fresh products. On weekends, she attends a cooking class to improve her skills.",
+    "questions": [
+      {
+        "question": "What time does Sarah wake up?",
+        "answer": ["4 a.m.", "4 am", "4am", "4 a.m"]
+      },
+      {
+        "question": "Why does she attend a cooking class on weekends?",
+        "answer": ["to improve her skills", "improve her skills"]
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_1",
+    "level": "B2",
+    "module": "reading",
+    "text": "The annual science fair attracted students from across the region. Participants presented innovative projects, from solar-powered devices to robots that assist with household chores. Judges evaluated each project based on creativity, feasibility, and presentation. The event aimed to inspire young minds to pursue careers in STEM.",
+    "questions": [
+      {
+        "question": "What criteria did the judges use to evaluate the projects?",
+        "answer": ["creativity, feasibility, and presentation", "creativity, feasibility and presentation"]
+      },
+      {
+        "question": "What was one of the projects mentioned?",
+        "answer": ["solar-powered devices", "robots that assist with household chores", "solar powered devices", "robots that assist with household chores"]
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_1",
+    "level": "C1",
+    "module": "reading",
+    "text": "Globalization has led to increased interconnectedness between nations, promoting economic growth and cultural exchange. However, it has also raised concerns about the erosion of local cultures and increased economic disparities. As multinational corporations expand, they can influence local markets and labor practices, sometimes leading to unfair working conditions. Policymakers and activists debate how to balance the benefits of global trade with the need to protect local identities and ensure equitable growth.",
+    "questions": [
+      {
+        "question": "What are two positive effects of globalization mentioned in the text?",
+        "answer": ["economic growth and cultural exchange", "economic growth, cultural exchange", "cultural exchange and economic growth"]
+      },
+      {
+        "question": "What are two concerns raised by globalization?",
+        "answer": ["erosion of local cultures and increased economic disparities", "erosion of local cultures, increased economic disparities", "increased economic disparities and erosion of local cultures"]
+      }
+    ]
+  },
+  {
+    "id": "reading_c2_1",
+    "level": "C2",
+    "module": "reading",
+    "text": "Quantum computing represents a paradigm shift in computational capabilities. Unlike classical computers that rely on bits being in a state of 0 or 1, quantum computers use qubits that can exist in superpositions of states. This allows them to perform multiple calculations simultaneously, potentially solving complex problems far more efficiently. Nevertheless, quantum computing faces significant challenges, such as maintaining qubit coherence and error correction. Scientists are working to overcome these hurdles to unlock the full potential of this transformative technology.",
+    "questions": [
+      {
+        "question": "What is a key advantage of quantum computers over classical computers?",
+        "answer": ["they can perform multiple calculations simultaneously due to superpositions", "they can perform multiple calculations simultaneously", "perform multiple calculations simultaneously"]
+      },
+      {
+        "question": "What is one challenge faced by quantum computing?",
+        "answer": ["maintaining qubit coherence", "error correction", "maintaining qubit coherence and error correction"]
+      }
+    ]
+  },
+
+  {
+    "id": "listening_a1_1",
+    "level": "A1",
+    "module": "listening",
+    "transcript": "Hello, my name is Tom. I live in Poland.",
+    "questions": [
+      {
+        "question": "What is the speaker's name?",
+        "answer": ["Tom"]
+      },
+      {
+        "question": "Where does he live?",
+        "answer": ["Poland"]
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_1",
+    "level": "A2",
+    "module": "listening",
+    "transcript": "The train departs at 9:30 a.m. Please arrive ten minutes early.",
+    "questions": [
+      {
+        "question": "When does the train depart?",
+        "answer": ["9:30 a.m.", "9:30", "9.30", "nine thirty"]
+      },
+      {
+        "question": "How early should you arrive?",
+        "answer": ["ten minutes early", "10 minutes early"]
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_1",
+    "level": "B1",
+    "module": "listening",
+    "transcript": "During our vacation, we visited a museum, hiked in the mountains, and tried local cuisine.",
+    "questions": [
+      {
+        "question": "Name two activities mentioned.",
+        "answer": ["visited a museum and hiked in the mountains", "hiked in the mountains and tried local cuisine", "visited a museum and tried local cuisine"]
+      },
+      {
+        "question": "What did they try?",
+        "answer": ["local cuisine"]
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_1",
+    "level": "B2",
+    "module": "listening",
+    "transcript": "Renewable energy sources, such as wind and solar power, are essential for reducing carbon emissions.",
+    "questions": [
+      {
+        "question": "Name two renewable energy sources mentioned.",
+        "answer": ["wind and solar power", "wind, solar power", "solar and wind power"]
+      },
+      {
+        "question": "What is the purpose of using renewable energy sources?",
+        "answer": ["reducing carbon emissions", "to reduce carbon emissions"]
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_1",
+    "level": "C1",
+    "module": "listening",
+    "transcript": "The speaker argued that government transparency is crucial for public trust, citing several studies showing a positive correlation between transparency and civic engagement.",
+    "questions": [
+      {
+        "question": "Why is government transparency important according to the speaker?",
+        "answer": ["it is crucial for public trust", "because it is crucial for public trust", "it is important for public trust"]
+      },
+      {
+        "question": "What correlation did the studies show?",
+        "answer": ["a positive correlation between transparency and civic engagement", "positive correlation between transparency and civic engagement"]
+      }
+    ]
+  },
+  {
+    "id": "listening_c2_1",
+    "level": "C2",
+    "module": "listening",
+    "transcript": "The economist discussed the implications of quantitative easing on inflation and asset bubbles, suggesting that central banks need to carefully monitor market indicators to prevent unintended consequences.",
+    "questions": [
+      {
+        "question": "What two economic phenomena did the economist link to quantitative easing?",
+        "answer": ["inflation and asset bubbles", "asset bubbles and inflation"]
+      },
+      {
+        "question": "What should central banks monitor to prevent unintended consequences?",
+        "answer": ["market indicators", "the market indicators"]
+      }
+    ]
+  },
+
+  {
+    "id": "writing_a1_1",
+    "level": "A1",
+    "module": "writing",
+    "prompt": "Write a short paragraph introducing yourself in English (2–3 sentences)."
+  },
+  {
+    "id": "writing_a2_1",
+    "level": "A2",
+    "module": "writing",
+    "prompt": "Write a short paragraph about your favorite hobby and why you enjoy it."
+  },
+  {
+    "id": "writing_b1_1",
+    "level": "B1",
+    "module": "writing",
+    "prompt": "Describe a memorable trip you have taken. Include where you went, what you did and how you felt."
+  },
+  {
+    "id": "writing_b2_1",
+    "level": "B2",
+    "module": "writing",
+    "prompt": "Write an email to a friend summarizing a book or movie you recently enjoyed. Mention the main plot points and why you recommend it."
+  },
+  {
+    "id": "writing_c1_1",
+    "level": "C1",
+    "module": "writing",
+    "prompt": "Discuss the advantages and disadvantages of working remotely. Provide at least two points for each side."
+  },
+  {
+    "id": "writing_c2_1",
+    "level": "C2",
+    "module": "writing",
+    "prompt": "Argue for or against the statement: 'Artificial intelligence will create more jobs than it eliminates.' Present a clear thesis and support it with well‑reasoned arguments."
+  }
+]
