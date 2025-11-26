@@ -4,3 +4,4 @@ numpy>=1.21.0
 matplotlib>=3.4.0
 openai>=0.28.1
 nltk>=3.9.0
+TTS
